@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90">
+  <rect width="320" height="90" fill="none"/>
+  <g transform="translate(4 7)">
+    <circle cx="36" cy="40" r="26" fill="#c8a85b"/>
+    <path d="M17 39c7-20 31-25 39-3 4 11-5 25-20 25S12 53 17 39Z" fill="#185743"/>
+    <path d="M29 12c8-11 19-10 24-3-5 3-10 6-15 13-3-3-6-6-9-10Z" fill="#9d7a35"/>
+    <circle cx="29" cy="38" r="3" fill="#fdfbf7"/><circle cx="43" cy="34" r="3" fill="#fdfbf7"/>
+  </g>
+  <text x="76" y="56" font-family="Georgia,serif" font-size="36" fill="#103f31">Crunch<tspan fill="#c8a85b">Aura</tspan></text>
+</svg>

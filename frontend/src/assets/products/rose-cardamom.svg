@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0c3c2e"/><stop offset="1" stop-color="#185743"/></linearGradient></defs>
+  <rect width="700" height="700" rx="48" fill="#f3ebdd"/>
+  <ellipse cx="350" cy="600" rx="205" ry="32" fill="#d9cfbf"/>
+  <g transform="translate(170 90)">
+    <path d="M40 40h280l-15 430H55Z" fill="url(#g)"/>
+    <path d="M40 40h280v70H40Z" fill="#c8898c"/>
+    <text x="160" y="180" text-anchor="middle" fill="#fdfbf7" font-family="Georgia,serif" font-size="34">CrunchAura</text>
+    <text x="160" y="220" text-anchor="middle" fill="#c8a85b" font-family="Georgia,serif" font-size="22">Rose Cardamom</text>
+    <text x="160" y="285" text-anchor="middle" fill="#fdfbf7" font-family="Arial,sans-serif" font-size="15">PREMIUM MAKHANA</text>
+    <circle cx="160" cy="355" r="92" fill="#ead8ad"/>
+    <circle cx="120" cy="330" r="20" fill="#d5b96e"/><circle cx="178" cy="326" r="22" fill="#d5b96e"/>
+    <circle cx="145" cy="380" r="21" fill="#c8a85b"/><circle cx="205" cy="375" r="19" fill="#dfc581"/>
+    <text x="160" y="420" text-anchor="middle" fill="#103f31" font-family="Arial,sans-serif" font-size="14">RICH &amp; SWEET</text>
+  </g>
+</svg>

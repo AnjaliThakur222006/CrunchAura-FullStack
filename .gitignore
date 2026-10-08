@@ -1,0 +1,8 @@
+node_modules/
+frontend/dist/
+frontend/.angular/
+backend/venv/
+backend/.env
+backend/staticfiles/
+__pycache__/
+*.pyc
